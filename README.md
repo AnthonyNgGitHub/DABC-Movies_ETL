@@ -6,3 +6,7 @@ The purpose of this exercise is to create a clean database with a list of movies
 
 - Data source: wikipedia-movies.json, movies_metadata.csv, ratings.csv
 - Software: Python, Pandas, PostgresSQL
+
+## Note
+
+- Due to Github file size limits, the ratings.csv file is not uploaded to this repository.
